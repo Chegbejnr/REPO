@@ -1,1 +1,2 @@
-Hi, this is me trying my first commit.
+Hi,  learning how to add a file this is me trying my first commit.
+
